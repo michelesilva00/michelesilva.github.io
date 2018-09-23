@@ -1,0 +1,26 @@
+body {
+ background-color: lightskyblue;
+    color: black;
+font-size:12pt;
+    font-family: 'Indie Flower', cursive;
+}
+
+article h1{
+    color:deeppink;
+    font-size: 18pt;
+}
+P {
+    font-size: 18pt;
+
+}
+nav li {
+    display: inline-block;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 5px;
+    background: white;
+    text-decoration: deeppink;
+}
+
+
+
